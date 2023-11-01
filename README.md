@@ -15,7 +15,7 @@ Term: Fall 2023
 	+ Zhenhui Wang
 	+ Puqi Song
 
-+ Project summary: In this project, we created ...
++ Project summary: In challenge I, we reproduced the quickstart notebook and created a report. In challenge II, Zhenhui implemented the quickstart notebook on Google Colab using Google Drive. Puqi developed an app using Huggingface Spaces that can directly show the quickstart notebook.
 + Link to Huggingface Space：https://huggingface.co/spaces/puqi/climsim
 	
 
