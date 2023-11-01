@@ -1,4 +1,4 @@
 ### Code lib Folder
 
-The lib directory contains various files with function definitions (but only function definitions - no code that actually runs).
+sys_utils.py - contains a module used to determine a user's system specifications that is utilized to determine an appropriate subsample amount while retaining as much data as possible.
 
