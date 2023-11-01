@@ -13,7 +13,7 @@ Term: Fall 2023
     -   Michael Wiley
     -   Zhenhui Wang
     -   Puqi Song
--   Project summary: In challenge I, we reproduced the quickstart notebook and created a report. In challenge II, 
+-   Project summary: In challenge I, we reproduced the quickstart notebook and created a report. To avoid the RAM restraints, we extracted the subsets of the original datasets. In challenge II, we created a quickstart notebook on Google Colab using Google Drive, and also developed an app using Huggingface Spaces to reproduce the notebook. Both enable a more automatic one-click "quicker start" for future users. We then developed the data loader using Huggingface hub. It uses the load function from Huggingface to import the data directly from the source, eliminating the step of downloading the data on our loca machine. We also created process to subsample data based on system specs, and created script to determine system specs. We made various code enhancements to main repo for modularity, reproducibility, and scalability.
 -   Link to Huggingface Space：<https://huggingface.co/spaces/puqi/climsim>
 
 **Contribution statement**:
