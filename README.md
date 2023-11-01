@@ -27,7 +27,7 @@ Shreya Verma: Developed the data loader using Huggingface hub. It uses the load 
 Puqi Song: Developed an app using Huggingface Spaces that can directly show the quickstart notebook without downloading the datasets and cloning the repository in the Github. This enables a more automatic one-click "quicker start".
 -   Link to Huggingface Space：<https://huggingface.co/spaces/puqi/climsim>
   
-Zhenhui Wang: implemented the quickstart notebook on Google Colab using Google Drive, which provides clear data loading instructions for future users.
+Zhenhui Wang: Implemented the quickstart notebook on Google Colab using Google Drive, which provides clear data loading instructions for future users.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows.
 
